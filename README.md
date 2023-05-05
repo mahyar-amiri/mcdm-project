@@ -5,7 +5,7 @@
 |  #  | Method | Format | Status |
 |:---:|:-------|:------:|:------:|
 |  1  | BWM    |  .py   |   🟢   |
-|  2  | AHP    |   -    |   🔵   |
+|  2  | AHP    |   -    |   🟡   |
 
 ## Alternative Assessment
 
@@ -29,8 +29,7 @@
 | 16  | ELECTRE   |  .py   |   🟢   |
 | 17  | REGIME I  |  .py   |   🟢   |
 | 18  | REGIME II |  .py   |   🟢   |
-| 19  | PROMETHEE |   -    |   🔴   |
 
-## Criteria
+## Attributes
 
-![Criteria](Graph.png)
+![Attributes](Graph.png)
