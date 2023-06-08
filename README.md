@@ -1,35 +1,38 @@
 # MCDM Methods
 
-## Criteria Assessment
+| Sign | Meaning  |
+|------|----------|
+| 🟢   | Pass     |
+| 🟡   | Pending  |
+| 🔴   | Fail     |
+| ✅    | Included |
 
-|  #  | Method | Format | Status |
-|:---:|:-------|:------:|:------:|
-|  1  | BWM    |  .py   |   🟢   |
-|  2  | AHP    |   -    |   🟡   |
+## Assessment
 
-## Alternative Assessment
-
-|  #  | Method    | Format | Status |
-|:---:|:----------|:------:|:------:|
-|  1  | SAW       | .xlsx  |   🟢   |
-|  2  | EDAS      | .xlsx  |   🟢   |
-|  3  | MAUT      | .xlsx  |   🟢   |
-|  4  | WASPAS    | .xlsx  |   🟢   |
-|  5  | COCOSO    | .xlsx  |   🟢   |
-|  6  | TOPSIS    | .xlsx  |   🟢   |
-|  7  | MOORA     | .xlsx  |   🟢   |
-|  8  | COPRAS    | .xlsx  |   🟢   |
-|  9  | VIKOR     | .xlsx  |   🟢   |
-| 10  | MABAC     | .xlsx  |   🟢   |
-| 11  | ARAS      | .xlsx  |   🟢   |
-| 12  | MAIRCA    | .xlsx  |   🟢   |
-| 13  | MARCOS    |  .py   |   🟢   |
-| 14  | OCRA      |  .py   |   🟢   |
-| 15  | CODAS     |  .py   |   🟢   |
-| 16  | ELECTRE   |  .py   |   🟢   |
-| 17  | REGIME I  |  .py   |   🟢   |
-| 18  | REGIME II |  .py   |   🟢   |
+|  #  | Method  | Format | Status | Doc |
+|:---:|:--------|:------:|:------:|:---:|
+|  1  | BWM     |  .py   |   🟢   |  ✅  |
+|  2  | SAW     | .xlsx  |   🟢   |  ✅  |
+|  3  | EDAS    | .xlsx  |   🟢   |  ✅  |
+|  4  | MAUT    | .xlsx  |   🟢   |  ✅  |
+|  5  | WASPAS  | .xlsx  |   🟢   |  ✅  |
+|  6  | COCOSO  | .xlsx  |   🟢   |  ✅  |
+|  7  | TOPSIS  | .xlsx  |   🟢   |  ✅  |
+|  8  | MOORA   | .xlsx  |   🟢   |  ✅  |
+|  9  | COPRAS  | .xlsx  |   🟢   |  ✅  |
+| 10  | VIKOR   | .xlsx  |   🟢   |  ✅  |
+| 11  | MABAC   | .xlsx  |   🟢   |  ✅  |
+| 12  | ARAS    | .xlsx  |   🟢   |  ✅  |
+| 13  | MARCOS  |  .py   |   🟢   |  ✅  |
+| 14  | OCRA    |  .py   |   🟢   |  ✅  |
+| 15  | CODAS   |  .py   |   🟢   |  ✅  |
+| 16  | ELECTRE |  .py   |   🟢   |  ✅  |
+| 17  | REGIME  |  .py   |   🟢   |  ✅  |
 
 ## Attributes
 
 ![Attributes](Graph.png)
+
+## Process
+
+![Process](Process.png)
